@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe743512-18c8-40cf-9e30-d088110035c0": {
+      "ProjectGuid": "fe743512-18c8-40cf-9e30-d088110035c0",
+      "DisplayName": "Antivirus",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
